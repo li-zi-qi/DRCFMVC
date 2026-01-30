@@ -34,15 +34,15 @@ Key: DRCF
 
 We compare our proposed DRCFMVC with 10 state-of-the-art multi-view clustering methods:
 
-- MFLVC: [multi-level feature learning for contrastive multi-view clustering](https://github.com/SubmissionsIn/MFLVC)
-- GCFAggMVC: [global and cross-view feature aggregation for multi-view clustering](https://github.com/Galaxy922/GCFAggMVC)
-- DealMVC: [dual contrastive calibration for multi-view clustering](https://github.com/xihongyang1999/DealMVC)
-- SCM: [simple contrastive multi-view clustering with data-level fusion](https://github.com/SubmissionsIn/SCM)
-- MSCIB: [multi-view semantic consistency based information bottleneck for clustering](https://github.com/WenB777/MSCIB)
-- DCMVC: [dual contrast-driven deep multi-View clustering](https://github.com/tweety1028/DCMVC)
-- MVCAN: [investigating and mitigating the side effects of noisy views for self-supervised clustering algorithms in practical multi-view scenarios](https://github.com/SubmissionsIn/MVCAN)
-- DDMvC: [deep discriminative multi-view clustering](https://github.com/chenzhe207/DDMvC)
-- SSLNMVC: [self-supervised semantic soft label learning network for deep multi-view clustering](https://github.com/shayeyty/SSLNMVC)
-- DDMVC: [deep multi-view clustering with diverse and discriminative feature learning](https://github.com/xujunpeng832/DDMVC)
+- MFLVC: [Multi-level feature learning for contrastive multi-view clustering](https://github.com/SubmissionsIn/MFLVC)
+- GCFAggMVC: [Global and cross-view feature aggregation for multi-view clustering](https://github.com/Galaxy922/GCFAggMVC)
+- DealMVC: [Dual contrastive calibration for multi-view clustering](https://github.com/xihongyang1999/DealMVC)
+- SCM: [Simple contrastive multi-view clustering with data-level fusion](https://github.com/SubmissionsIn/SCM)
+- MSCIB: [Multi-view semantic consistency based information bottleneck for clustering](https://github.com/WenB777/MSCIB)
+- DCMVC: [Dual contrast-driven deep multi-view clustering](https://github.com/tweety1028/DCMVC)
+- MVCAN: [Investigating and mitigating the side effects of noisy views for self-supervised clustering algorithms in practical multi-view scenarios](https://github.com/SubmissionsIn/MVCAN)
+- DDMvC: [Deep discriminative multi-view clustering](https://github.com/chenzhe207/DDMvC)
+- SSLNMVC: [Self-supervised semantic soft label learning network for deep multi-view clustering](https://github.com/shayeyty/SSLNMVC)
+- DDMVC: [Deep multi-view clustering with diverse and discriminative feature learning](https://github.com/xujunpeng832/DDMVC)
 
 ------
