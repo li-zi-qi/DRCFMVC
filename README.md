@@ -22,14 +22,6 @@ run train.py for training DRCFMVC
 
 ------
 
-## Datasets
-
-[Click here](https://pan.baidu.com/s/1Y9TdUKndxbCUfAZxW_IGUQ) to access all datasets.
-
-Key: DRCF
-
-------
-
 ## Experiment Results
 
 We compare our proposed DRCFMVC with 10 state-of-the-art multi-view clustering methods:
